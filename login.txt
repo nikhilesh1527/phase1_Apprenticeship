@@ -1,2 +1,3 @@
 Login featurs must have the google authentication.
 Login can be done using Google Auth.
+If not then OAuth should be used to do the login
