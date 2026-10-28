@@ -1,1 +1,2 @@
 Login featurs must have the google authentication.
+Login can be done using Google Auth.
